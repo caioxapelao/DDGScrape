@@ -12,9 +12,9 @@ print(results[0])
 the output structure is
 ```JSON
 {
-  'title': 'title',
-  'url': 'url',
-  'description': 'description',
-  'date': 'date'
+'title': 'title',
+'url': 'url',
+'description': 'description',
+'date': 'date'
 }
 ```
