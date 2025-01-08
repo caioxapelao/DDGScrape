@@ -10,7 +10,7 @@ results = scrape("what does a turtle like to eat")
 print(results[0])
 ```
 the output structure is
-```JSON
+```
 {
 'title': 'title',
 'url': 'url',
